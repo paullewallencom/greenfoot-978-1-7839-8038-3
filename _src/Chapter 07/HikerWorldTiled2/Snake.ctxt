@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Snake()
+comment0.text=constructors
+comment1.params=
+comment1.target=void\ sense()
+comment1.text=ability\ methods
+comment2.params=
+comment2.target=void\ reaction()
+numComments=3

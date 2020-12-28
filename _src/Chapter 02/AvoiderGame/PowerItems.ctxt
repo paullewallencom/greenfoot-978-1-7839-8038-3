@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=tX\ tY\ eT
+comment0.target=PowerItems(int,\ int,\ int)
+comment1.params=w
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=f
+comment3.target=double\ curveX(double)
+comment4.params=f
+comment4.target=double\ curveY(double)
+comment5.params=
+comment5.target=void\ checkHitAvatar()
+comment6.params=
+comment6.target=void\ easing()
+comment7.params=
+comment7.target=void\ checkExpire()
+numComments=8

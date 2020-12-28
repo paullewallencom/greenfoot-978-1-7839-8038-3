@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Jumper()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ handleKeyPresses()
+comment3.params=
+comment3.target=void\ jump()
+comment4.params=
+comment4.target=void\ standOrFall()
+comment5.params=
+comment5.target=void\ checkHead()
+comment6.params=
+comment6.target=void\ checkLanding()
+comment7.params=
+comment7.target=boolean\ inAir()
+comment8.params=
+comment8.target=void\ fall()
+numComments=9

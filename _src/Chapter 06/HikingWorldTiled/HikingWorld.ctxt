@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HikingWorld()
+comment1.params=dx
+comment1.target=void\ shiftWorld(int)
+comment2.params=dx
+comment2.target=void\ shiftWorldActors(int)
+comment3.params=
+comment3.target=void\ createWorldFromTiles()
+comment4.params=c\ x\ y
+comment4.target=void\ addActorAtTileLocation(char,\ int,\ int)
+comment5.params=
+comment5.target=void\ prepare()
+numComments=6

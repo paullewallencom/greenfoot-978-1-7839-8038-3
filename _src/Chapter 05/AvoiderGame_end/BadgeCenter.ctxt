@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BadgeCenter()
+comment1.params=
+comment1.target=BadgeCenter\ getInstance()
+comment2.params=
+comment2.target=void\ hitClover()
+comment3.params=
+comment3.target=void\ hitRock()
+comment4.params=
+comment4.target=void\ hitEnemy()
+comment5.params=
+comment5.target=void\ hitCupcake()
+comment6.params=
+comment6.target=java.util.List\ getBadges()
+comment7.params=title
+comment7.target=void\ awardBadge(java.lang.String)
+numComments=8

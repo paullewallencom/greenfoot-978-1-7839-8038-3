@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=dx\ dy
+comment0.target=void\ setAbsoluteLocation(int,\ int)
+numComments=1

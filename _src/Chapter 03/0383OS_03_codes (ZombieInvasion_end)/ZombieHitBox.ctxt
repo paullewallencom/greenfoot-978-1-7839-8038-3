@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ZombieHitBox()
+comment1.params=a\ w\ h\ dx\ dy\ visible
+comment1.target=ZombieHitBox(greenfoot.Actor,\ int,\ int,\ int,\ int,\ boolean)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=java.util.List\ getHitBoxIntersections()
+numComments=4

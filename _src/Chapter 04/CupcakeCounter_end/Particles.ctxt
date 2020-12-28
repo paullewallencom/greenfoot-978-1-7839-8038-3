@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=tr\ s\ l
+comment0.target=Particles(int,\ int,\ int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ move()
+comment3.params=
+comment3.target=void\ remove()
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=tb\ i\ fs\ fg1\ bg1\ fg2\ bg2\ mc
+comment0.target=Menu(java.lang.String,\ java.lang.String,\ int,\ java.awt.Color,\ java.awt.Color,\ java.awt.Color,\ java.awt.Color,\ MenuCommands)
+comment1.params=
+comment1.target=Menu()
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ handleMouse()
+numComments=5

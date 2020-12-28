@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=p
+comment0.target=Avatar(GamePad)
+comment1.params=w
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ addHealth()
+comment4.params=
+comment4.target=void\ lagControls()
+comment5.params=
+comment5.target=void\ stun()
+comment6.params=
+comment6.target=void\ checkForCollisions()
+comment7.params=
+comment7.target=void\ userControls()
+comment8.params=lag
+comment8.target=void\ moveViaGamepad(boolean)
+comment9.params=lag
+comment9.target=void\ moveViaMouse(boolean)
+numComments=10

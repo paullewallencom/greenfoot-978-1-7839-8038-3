@@ -1,0 +1,121 @@
+Class documentation
+<---- javadoc command: ---->
+/Applications/Greenfoot 2.4.0/Greenfoot.app/Contents/Frameworks/jdk.framework/Versions/A/Contents/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-protected
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+/Applications/Greenfoot 2.4.0/Greenfoot.app/Contents/Resources/Java/extensions/greenfoot.jar:/Applications/Greenfoot 2.4.0/Greenfoot.app/Contents/Resources/Java/bluejcore.jar:/Applications/Greenfoot 2.4.0/Greenfoot.app/Contents/Resources/Java/bluejeditor.jar:/Applications/Greenfoot 2.4.0/Greenfoot.app/Contents/Resources/Java/bluejext.jar:/Applications/Greenfoot 2.4.0/Greenfoot.app/Contents/Resources/Java/AppleJavaExtensions.jar:/Applications/Greenfoot 2.4.0/Greenfoot.app/Contents/Resources/Java/junit-4.8.2.jar:/Applications/Greenfoot 2.4.0/Greenfoot.app/Contents/Resources/Java/bluej.jar:/Applications/Greenfoot 2.4.0/Greenfoot.app/Contents/Resources/Java/commons-httpclient-3.1.jar:/Applications/Greenfoot 2.4.0/Greenfoot.app/Contents/Resources/Java/commons-logging-api-1.1.2.jar:/Applications/Greenfoot 2.4.0/Greenfoot.app/Contents/Resources/Java/commons-codec-1.3.jar:/Applications/Greenfoot 2.4.0/Greenfoot.app/Contents/Resources/Java/jl1.0.1.jar:/Applications/Greenfoot 2.4.0/Greenfoot.app/Contents/Resources/Java/opencsv-2.3.jar:/Users/mhaungs/Work/Research/LEAP/LeapSDK/lib/LeapJava.jar:/Users/mhaungs/Work/Courses/CSC171/Resources/Practice/Processing/core.jar:/Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate
+-d
+/Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/Applications/Greenfoot 2.4.0/Greenfoot.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/GamePad.java
+<---- end of javadoc command ---->
+Loading source file /Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/GamePad.java...
+Constructing Javadoc information...
+/Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/gamepadlib/GamePadLoader.java:4: error: package net.java.games.input does not exist
+import net.java.games.input.*;
+^
+/Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/gamepadlib/GamePadLoader.java:127: error: cannot find symbol
+    private static boolean isControllerGamePad(Controller controller)
+                                               ^
+  symbol:   class Controller
+  location: class GamePadLoader
+/Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/gamepadlib/GamePadLoader.java:133: error: cannot find symbol
+    private static Component[] filterComponents( Component[] components )
+                                                 ^
+  symbol:   class Component
+  location: class GamePadLoader
+/Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/gamepadlib/GamePadLoader.java:133: error: cannot find symbol
+    private static Component[] filterComponents( Component[] components )
+                   ^
+  symbol:   class Component
+  location: class GamePadLoader
+/Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/gamepadlib/GamePadLoader.java:153: error: cannot find symbol
+    private static Component findAxis( Component[] components, Component.Identifier.Axis axis )
+                                       ^
+  symbol:   class Component
+  location: class GamePadLoader
+/Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/gamepadlib/GamePadLoader.java:153: error: package Component.Identifier does not exist
+    private static Component findAxis( Component[] components, Component.Identifier.Axis axis )
+                                                                                   ^
+/Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/gamepadlib/GamePadLoader.java:153: error: cannot find symbol
+    private static Component findAxis( Component[] components, Component.Identifier.Axis axis )
+                   ^
+  symbol:   class Component
+  location: class GamePadLoader
+/Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/gamepadlib/GamePadLoader.java:164: error: cannot find symbol
+    private static boolean isComponent( final Component component )
+                                              ^
+  symbol:   class Component
+  location: class GamePadLoader
+/Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/gamepadlib/GamePadLoader.java:169: error: cannot find symbol
+    private static boolean isButton( final Component component )
+                                           ^
+  symbol:   class Component
+  location: class GamePadLoader
+/Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/gamepadlib/GamePadLoader.java:174: error: cannot find symbol
+    private static boolean isAxis( final Component component )
+                                         ^
+  symbol:   class Component
+  location: class GamePadLoader
+/Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/gamepadlib/GamePadLoader.java:179: error: cannot find symbol
+    private static boolean isComponentNameEndsWith( final Component component, final String endsName )
+                                                          ^
+  symbol:   class Component
+  location: class GamePadLoader
+/Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/gamepadlib/GamePadLoader.java:185: error: cannot find symbol
+    private final Controller controller;
+                  ^
+  symbol:   class Controller
+  location: class GamePadLoader
+/Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/gamepadlib/GamePadLoader.java:186: error: cannot find symbol
+    private final Component[] components;
+                  ^
+  symbol:   class Component
+  location: class GamePadLoader
+/Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/gamepadlib/GamePadLoader.java:187: error: cannot find symbol
+    private final Component povAxis;
+                  ^
+  symbol:   class Component
+  location: class GamePadLoader
+/Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/gamepadlib/GamePadLoader.java:193: error: cannot find symbol
+    private GamePadLoader(Controller controller)
+                          ^
+  symbol:   class Controller
+  location: class GamePadLoader
+/Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/gamepadlib/GamePadLoader.java:221: error: cannot find symbol
+    private Component getComponent( int index )
+            ^
+  symbol:   class Component
+  location: class GamePadLoader
+Standard Doclet version 1.7.0_65
+Building tree for all the packages and classes...
+Generating /Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/doc/GamePad.html...
+/Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/GamePad.java:490: warning - @param argument "The" is not a parameter name.
+Generating /Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/doc/GamePad.Axis.html...
+Generating /Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/doc/GamePad.Button.html...
+Generating /Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/doc/package-frame.html...
+Generating /Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/doc/package-summary.html...
+Generating /Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/doc/allclasses-frame.html...
+Generating /Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/doc/allclasses-noframe.html...
+Generating /Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/doc/index.html...
+Generating /Users/mhaungs/Work/Research/Curriculum/Greenfoot Book/Chapters/Chapter9_Jan14/GamePadTemplate/doc/stylesheet.css...
+17 warnings

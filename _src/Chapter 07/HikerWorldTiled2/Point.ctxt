@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Point()
+comment0.text=constructors
+comment1.params=_row\ _col
+comment1.target=Point(int,\ int)
+comment2.params=p
+comment2.target=boolean\ equals(Point)
+comment2.text=ability\ methods
+numComments=3

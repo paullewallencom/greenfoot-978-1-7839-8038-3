@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=tX\ tY\ eT
+comment0.target=Clover(int,\ int,\ int)
+comment1.params=f
+comment1.target=double\ curveX(double)
+comment2.params=f
+comment2.target=double\ curveY(double)
+comment3.params=
+comment3.target=void\ checkHitAvatar()
+numComments=4

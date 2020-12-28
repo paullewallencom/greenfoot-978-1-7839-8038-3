@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AvoiderGameIntroScreen()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=s\ x\ y
+comment2.target=greenfoot.Actor\ addButton(java.lang.String,\ int,\ int)
+numComments=3

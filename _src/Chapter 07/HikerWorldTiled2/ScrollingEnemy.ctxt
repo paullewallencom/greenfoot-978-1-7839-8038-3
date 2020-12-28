@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=w
+comment0.target=void\ addedToWorld(greenfoot.World)
+comment0.text=initialization
+comment1.params=
+comment1.target=void\ act()
+comment1.text=ability\ methods
+comment2.params=
+comment2.target=void\ sense()
+comment3.params=
+comment3.target=void\ reaction()
+comment4.params=
+comment4.target=void\ boundedMove()
+numComments=5

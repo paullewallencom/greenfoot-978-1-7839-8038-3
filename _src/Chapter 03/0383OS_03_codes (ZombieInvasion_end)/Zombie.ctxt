@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=w
+comment0.target=void\ addedToWorld(greenfoot.World)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ shake()
+comment3.params=
+comment3.target=boolean\ canMarch()
+comment3.text=private\ boolean\ canMarch()\ {\n\ \ \ \ int\ front\ \=\ getImage().getWidth()/2;\n\ \ \ \ int\ i\ \=\ 1;\n\ \ \ \ while(i<\=step)\ {\n\ \ \ \ List<Actor>\ things\ \=\ getObjectsAtOffset(front\ +\ i,\ 0,\ Actor.class);\n\ \ \ \ if(\ things.size()\ >\ 0\ )\ \ {\n\ \ \ \ for(int\ j\=0;\ j\ <\ things.size();\ j++\ )\ {\n\ \ \ \ if(\ things.get(j)\ instanceof\ Zombie\ )\ {\n\ \ \ \ int\ toss\ \=\ Greenfoot.getRandomNumber(100)\ <\ 50\ ?\ 1\ \:\ -1;\n\ \ \ \ Zombie\ z\ \=\ (Zombie)\ things.get(j);\n\ \ \ \ z.setLocation(z.getX(),z.getY()+toss);\n\ \ \ \ }\n\ \ \ \ }\n\ \ \ \ return\ false;\n\ \ \ \ }\n\ \ \ \ i++;\n\ \ \ \ }\n\ \ \ \ return\ true;\n}
+numComments=4

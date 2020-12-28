@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Star()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=s
+comment2.target=void\ setSpeed(int)
+comment3.params=
+comment3.target=void\ checkRemove()
+comment4.params=
+comment4.target=void\ checkTwinkle()
+numComments=5

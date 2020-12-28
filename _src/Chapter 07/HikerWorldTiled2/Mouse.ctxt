@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=w
+comment0.target=void\ addedToWorld(greenfoot.World)
+comment0.text=initilization
+comment1.params=
+comment1.target=void\ sense()
+comment1.text=ability\ methods
+comment2.params=
+comment2.target=void\ reaction()
+comment3.params=
+comment3.target=void\ unitTestPathFinding()
+comment3.text=unit\ testing
+numComments=4

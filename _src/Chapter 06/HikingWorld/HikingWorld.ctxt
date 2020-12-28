@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HikingWorld()
+comment1.params=dx
+comment1.target=void\ shiftWorld(int)
+comment2.params=dx
+comment2.target=void\ shiftWorldBackground(int)
+comment3.params=dx
+comment3.target=void\ shiftWorldActors(int)
+comment4.params=
+comment4.target=void\ prepare()
+numComments=5

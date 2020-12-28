@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Eye()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ lookAtEnemies()
+comment3.params=dx\ dy
+comment3.target=void\ drawEye(int,\ int)
+numComments=4

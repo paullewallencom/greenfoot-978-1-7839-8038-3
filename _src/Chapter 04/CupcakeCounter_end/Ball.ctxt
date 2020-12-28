@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ball()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=int\ getXVelocity()
+comment3.params=
+comment3.target=void\ fallOrBounce()
+comment4.params=
+comment4.target=void\ checkOffScreen()
+comment5.params=
+comment5.target=void\ checkHead()
+comment6.params=
+comment6.target=void\ checkLanding()
+comment7.params=step
+comment7.target=void\ handleBounce(int)
+comment8.params=dx
+comment8.target=void\ fall(int)
+numComments=9

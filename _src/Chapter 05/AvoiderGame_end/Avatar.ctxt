@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=w
+comment0.target=void\ addedToWorld(greenfoot.World)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ addHealth()
+comment3.params=
+comment3.target=void\ lagControls()
+comment4.params=
+comment4.target=void\ stun()
+comment5.params=
+comment5.target=void\ sayAhhh()
+comment6.params=
+comment6.target=void\ sayWoot()
+comment7.params=
+comment7.target=void\ checkForCollisions()
+comment8.params=
+comment8.target=void\ followMouse()
+numComments=9

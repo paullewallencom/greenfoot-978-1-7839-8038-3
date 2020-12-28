@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=angle\ strength
+comment0.target=Direction(int,\ float)
+comment0.text=\r\n\ <p>Creates\ a\ new\ direction.\ These\ are\ typically\ created\ for\ you\ by\ the\ GamePad\r\n\ class.</p>\r\n\ \r\n\ @param\ The\ angle\ for\ this\ direction\ in\ degrees.\r\n\ @param\ How\ strong\ the\ direction\ is\ moving\ in\ the\ given\ angle.\r\n
+comment1.params=
+comment1.target=float\ getStrength()
+comment1.text=\r\n\ <p>Strength\ represents\ how\ far\ the\ axis\ is\ pushed\ in\ the\ given\ direction.\r\n\ 0\ is\ that\ it\ is\ not\ being\ pushed\ at\ all,\ and\ 1\ is\ that\ it\ is\ fully\ exerted\r\n\ as\ far\ as\ it\ can\ move.\ 0.5\ would\ be\ moving\ the\ axis\ half\ way\ of\ the\ given\r\n\ direction.</p>\r\n\ \r\n\ @return\ The\ strength\ of\ the\ direction\ from\ 0\ to\ 1.\r\n
+comment2.params=
+comment2.target=int\ getAngle()
+comment2.text=\r\n\ <p>Angles\ are\ in\ degrees\ from\ 0\ to\ 359,\ with\ 0\ pointing\ to\ the\ east.</p>\r\n\ \r\n\ @return\ The\ angle\ that\ this\ is\ pointing\ in.\r\n
+comment3.params=
+comment3.target=double\ getAngleRadians()
+comment3.text=\r\n\ <p>Returns\ the\ same\ value\ as\ the\ getAngle\ method,\r\n\ however\ this\ is\ in\ radians\ instead\ of\ degrees.</p>\r\n\ \r\n\ <p>This\ is\ useful\ for\ when\ you\ are\ using\ the\r\n\ static\ trigonomic\ methods\ in\ the\ Math\ class,\ like\r\n\ Math.cos()\ and\ Math.sin().</p>\r\n\ \r\n\ @return\ The\ angle\ this\ is\ pointing\ in,\ in\ radians.\r\n
+numComments=4

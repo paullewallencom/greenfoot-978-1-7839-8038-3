@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=distance
+comment0.target=void\ move(int)
+comment0.text=\n\ Move\ forward\ by\ the\ specified\ distance.\n\ (Overrides\ the\ method\ in\ Actor).\n
+comment1.params=distance
+comment1.target=void\ move(double)
+comment1.text=\n\ Move\ forward\ by\ the\ specified\ exact\ distance.\n
+comment2.params=x\ y
+comment2.target=void\ setLocation(double,\ double)
+comment2.text=\n\ Set\ the\ location\ using\ exact\ coordinates.\n
+comment3.params=x\ y
+comment3.target=void\ setLocation(int,\ int)
+comment3.text=\n\ Set\ the\ location\ using\ integer\ coordinates.\n\ (Overrides\ the\ method\ in\ Actor.)\n
+comment4.params=
+comment4.target=double\ getExactX()
+comment4.text=\n\ Return\ the\ exact\ x-coordinate\ (as\ a\ double).\n
+comment5.params=
+comment5.target=double\ getExactY()
+comment5.text=\n\ Return\ the\ exact\ y-coordinate\ (as\ a\ double).\n
+numComments=6
